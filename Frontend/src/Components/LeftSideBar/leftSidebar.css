@@ -1,0 +1,31 @@
+
+
+.leftSidebarStyle{
+    font-family: "Khula" !important;
+    font-size: 19.5px !important;
+    font-weight: bold !important;
+}
+#sidebar .sidebar-menu li .leftBarDesign {
+    color: #f9f9f9;
+    display: block;
+    padding: 9px 0;
+    font-size: 16px;
+    text-decoration: none;
+    transition: all .4s;
+    cursor: pointer;
+}
+
+#sidebar .sidebar-menu li .leftBarDesign:hover {
+    color: #fff;
+    background: #ffce00;
+    padding: 8px 8px;
+    clip-path: polygon(0 0, 24% 0%, 18% 11%, 36% 0, 58% 0, 78% 0, 88% 0, 100% 7%, 100% 34%, 100% 67%, 100% 100%, 84% 100%, 66% 87%, 75% 100%, 33% 100%, 14% 100%, 0 99%, 0 69%, 0 34%);
+    transition: .4s linear;
+    background-color: #ffce00;
+    background-image: linear-gradient(132deg, #ff8e00 27%, #ffce00 94%);
+    cursor: pointer;
+}
+
+.paddingDesign{
+    padding-left: 7px;
+}

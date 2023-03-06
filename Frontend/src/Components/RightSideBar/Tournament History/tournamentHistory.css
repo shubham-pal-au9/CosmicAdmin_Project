@@ -1,0 +1,33 @@
+.date_arrageMain{
+    display: flex;
+    flex-direction: row;
+}
+
+.dateTextStyle{
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    padding-top: 5px;
+    margin-right: 10px;
+    margin-left: 4px;
+}
+
+.dropdown-menu.show {
+    display: block;
+    padding: 5px;
+    float: right;
+}
+
+.alignExcelDownloadTour > .btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    margin-left: 0px;
+}
+
+
+/* .bWHBQv > ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px 0 16px 0;
+    background-color:#007bff;
+} */

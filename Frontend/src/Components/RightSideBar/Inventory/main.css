@@ -1,0 +1,56 @@
+.alignBtnWeapons{
+    display: flex;
+    flex-direction: row;
+}
+.alignBtnCharacter{
+    display: flex;
+    flex-direction: row;
+}
+
+.knowMoreMain{
+    height: 30px;
+    width: 30px;
+    margin-left: 20px;
+    padding: 20px;
+}
+
+.deleteBtnStyle{
+    height: 30px;
+    width: 65px;
+    margin-left: 25px;
+}
+.deleteText{
+    font-size: 12px;
+    padding-bottom: 10px;
+}
+
+.editBtnStyle{
+    height: 30px;
+    width: 65px;
+    margin-left: 5px;
+}
+.knowMoreText{
+    font-size: 12px;
+}
+
+.deleteMain > .btn{
+    padding: 0;
+}
+
+.editMain > .btn{
+    padding: 0;
+}
+
+.statusColorCorrectWeapon{
+    color: rgba(38, 242, 38, 0.801);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  }
+
+  .editDelBtn{
+    display: flex;
+    margin-top: 4px;
+    justify-content: space-around;
+
+  }

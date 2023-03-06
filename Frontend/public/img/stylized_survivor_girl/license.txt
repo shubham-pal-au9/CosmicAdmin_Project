@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylized Survivor Girl
+* source:	https://sketchfab.com/3d-models/stylized-survivor-girl-269a111a3d1e49eaa3450ca280e081d8
+* author:	Autonarch (https://sketchfab.com/Autonarch)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylized Survivor Girl" (https://sketchfab.com/3d-models/stylized-survivor-girl-269a111a3d1e49eaa3450ca280e081d8) by Autonarch (https://sketchfab.com/Autonarch) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

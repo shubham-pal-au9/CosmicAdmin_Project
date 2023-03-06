@@ -1,0 +1,11 @@
+Model Information:
+* title:	KABAR US Military Knife (Free)
+* source:	https://sketchfab.com/3d-models/kabar-us-military-knife-free-72cc3b9f223a4c81b1401f2156c66bcc
+* author:	ferrarif340 (https://sketchfab.com/ferrarif340)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "KABAR US Military Knife (Free)" (https://sketchfab.com/3d-models/kabar-us-military-knife-free-72cc3b9f223a4c81b1401f2156c66bcc) by ferrarif340 (https://sketchfab.com/ferrarif340) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

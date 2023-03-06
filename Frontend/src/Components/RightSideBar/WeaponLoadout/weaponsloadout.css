@@ -1,0 +1,21 @@
+.fix_align{ 
+    text-decoration: none;
+    background-color: transparent;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 400;
+    color: #f9f9f9;
+    
+}
+.fix_align :hover{
+    color: #33CCFF;
+}
+
+.active {
+    text-decoration: none;
+    background-color: transparent;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 400;
+    color: #33CCFF;
+}

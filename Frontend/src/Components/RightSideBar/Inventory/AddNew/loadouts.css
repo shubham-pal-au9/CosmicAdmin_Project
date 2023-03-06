@@ -1,0 +1,29 @@
+img {
+  height: 98px;
+  width: 98px;
+  }
+
+.statusColorCorrectWeapon{
+  color: rgba(38, 242, 38, 0.801);
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.chs_fl {
+  color: #909294;
+  width: 100%;
+  font-family: "Khula" !important;
+  font-size: 19.5px !important;
+  font-weight: bold !important;
+}
+
+label {
+  font-family: "Khula" !important;
+  font-size: 15px !important;
+  font-weight: bold !important;
+}
+
+.backalign{
+  margin-left: 20px;
+}

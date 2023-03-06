@@ -1,0 +1,14 @@
+.trans_fltrs {
+    text-align: center;
+    margin: 60px auto 0px;
+}
+.trans_fltrs .active {
+    color: #ff8e00!important;
+    clip-path: polygon(0 0, 24% 0%, 18% 11%,36% 0, 58% 0, 78% 0, 88% 0, 100% 7%, 100% 34%, 100% 67%, 100% 100%, 84% 100%, 66% 87%, 75% 100%, 33% 100%, 14% 100%, 0 99%, 0 69%, 0 34%);
+    transition: .4s linear;
+    text-shadow: 2px 1px rgb(0 0 0 / 25%);
+    box-shadow: 0 0 15px #ff8e00 inset;
+    border: 0;
+    text-decoration: none;
+    cursor: pointer;
+}

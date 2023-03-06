@@ -1,0 +1,11 @@
+Model Information:
+* title:	M67 Fragmentation Grenade
+* source:	https://sketchfab.com/3d-models/m67-fragmentation-grenade-05e2a29118c3408eaa574bcec6997aba
+* author:	Vextin (https://sketchfab.com/vextin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "M67 Fragmentation Grenade" (https://sketchfab.com/3d-models/m67-fragmentation-grenade-05e2a29118c3408eaa574bcec6997aba) by Vextin (https://sketchfab.com/vextin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

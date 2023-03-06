@@ -1,0 +1,9 @@
+.entireverify{
+    min-height: 750px !important;
+}
+
+.respSuccessStyle{
+    text-transform: capitalize;
+    font-size: 12px;
+    color: green;
+}

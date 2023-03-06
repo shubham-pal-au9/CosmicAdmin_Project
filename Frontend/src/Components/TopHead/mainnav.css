@@ -1,0 +1,11 @@
+.dropdown .dropdown-content-out {
+    position: absolute;
+    top: 50px;
+    left: -16px;
+    min-width: 80px;
+    font-size: 14px;
+    font-family: "Khula" !important;
+    font-size: 18px !important;
+    font-weight: bold !important;
+    text-decoration: none;
+}
